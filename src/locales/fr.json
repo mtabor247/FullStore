@@ -1,0 +1,21 @@
+{
+    "titulo": "GESTION DES PRODUITS",
+    "lenguaje": "Langue",
+    "idioma": {
+        "es": "Espagnol",
+        "us": "Anglais",
+        "fr": "Français"
+    },
+    "agregar": "Ajouter un produit",
+    "tabla" : {
+        "nombre" : "Nom",
+        "categoria" : "Catégorie",
+        "marca" : "Marque",
+        "color" : "Couleur",
+        "talla" : "Taille",
+        "precio" : "Prix",
+        "estado" : "État",
+        "editar" : "Modifier",
+        "eliminar" : "Supprimer"
+    }
+}

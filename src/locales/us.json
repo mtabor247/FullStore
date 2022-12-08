@@ -1,0 +1,21 @@
+{
+    "titulo": "PRODUCT MANAGEMENT",
+    "lenguaje": "Lenguaje",
+    "idioma": {
+        "es": "Spanich",
+        "us": "English",
+        "fr": "French"
+    },
+    "agregar": "Add Product",
+    "tabla" : {
+        "nombre" : "Name",
+        "categoria" : "Category",
+        "marca" : "Brand",
+        "color" : "Color",
+        "talla" : "Size",
+        "precio" : "Price",
+        "estado" : "State",
+        "editar" : "Edit",
+        "eliminar" : "Delete"
+    }
+}

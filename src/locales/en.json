@@ -1,0 +1,21 @@
+{
+    "titulo": "MANTENIMIENTO DE PRODUCTOS",
+    "lenguaje": "Lenguaje",
+    "idioma": {
+        "es": "Español",
+        "us": "Inglés",
+        "fr": "Francés"
+    },
+    "agregar": "Agregar Producto",
+    "tabla" : {
+        "nombre" : "Nombre",
+        "categoria" : "Categoria",
+        "marca" : "Marca",
+        "color" : "Color",
+        "talla" : "Talla",
+        "precio" : "Precio",
+        "estado" : "Estado",
+        "editar" : "Editar",
+        "eliminar" : "Eliminar"
+    }
+}
